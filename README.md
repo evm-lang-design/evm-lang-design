@@ -41,6 +41,7 @@ of smart contracts.* (2016)
 - [DevCon1: Towards safer languages for smart contracts](https://www.youtube.com/watch?v=H2uwUdzVD9I) (video) - Jack Pettersson, Robert Edström, DevCon1, (2015)
 - [Notes on the DAO re-entrancy bug and behavioral types](https://docs.google.com/document/d/1sGlObhGhoEizBXC30Ww4h1KHKGkmcy4NiCKitIBqiUg/edit#heading=h.gm4egb3ql9ps) - Jack Pettersson, Lucius Gregory Meredith
 - [Total Functioal Programming](https://oktahedron.diskordia.org/?podcast=oh002-total-functional-programming) (audio)
+- [A Lem formalization of EVM and some Isabelle/HOL proofs](https://github.com/pirapira/eth-isabelle) ([gitter](https://gitter.im/ethereum/formal-methods))
 
 ### EVM
 
