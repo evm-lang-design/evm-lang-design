@@ -31,15 +31,20 @@ Please join us on the [fp-ethereum](https://gitter.im/fp-ethereum/Lobby) gitter 
 
 ### Formal Verification and Dependent Types
 
+- [Typed, functional Solidity alternative](https://github.com/raineorshine/functional-solidity-language)
 - [Sample Idris Ethereum smart contracts](https://github.com/vindaloo-thesis/examples)
 - [Idris to Serpent back end](https://github.com/vindaloo-thesis/idris-se)
 - Bhargavan et al. [Formal Verification of Smart Contracts](http://www.cs.umd.edu/~aseem/solidetherplas.pdf).
 - Pettersson, Jack and Robert Edström. [Safer smart contracts through type-driven
 development.](http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf) *Using dependent and polymorphic types for safer development
 of smart contracts.* (2016)
-- [Towards safer languages for smart contracts](DEVCON1: Towards safer languages for smart contracts - Jack Pettersson, Robert Edström) (video) - Jack Pettersson, Robert Edström, DevCon1, (2015)
+- [DevCon1: Towards safer languages for smart contracts](https://www.youtube.com/watch?v=H2uwUdzVD9I) (video) - Jack Pettersson, Robert Edström, DevCon1, (2015)
 - [Notes on the DAO re-entrancy bug and behavioral types](https://docs.google.com/document/d/1sGlObhGhoEizBXC30Ww4h1KHKGkmcy4NiCKitIBqiUg/edit#heading=h.gm4egb3ql9ps) - Jack Pettersson, Lucius Gregory Meredith
-- [Total Functioal Programming](https://oktahedron.diskordia.org/?podcast=oh002-total-functional-programming) (Audio)
+- [Total Functioal Programming](https://oktahedron.diskordia.org/?podcast=oh002-total-functional-programming) (audio)
+
+### EVM
+
+- [Solidity Assembly](https://solidity.readthedocs.io/en/develop/assembly.html#standalone-assembly)
 
 ### Early Conversations
 
