@@ -55,7 +55,7 @@ We hope you feel welcomed to this community and that it is easy for you to join 
 Several members of the community have volunteered to answer questions or help you get acquainted with what is going on. Feel free to reach out and say hello!
 
 - [raineorshine](https://github.com/raineorshine)
-- _________
+- [gnidan](https://github.com/gnidan)
 - _________
 - _________
 - _________
