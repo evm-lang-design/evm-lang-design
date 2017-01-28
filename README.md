@@ -1,6 +1,7 @@
 [![fp-ethereum](https://avatars3.githubusercontent.com/u/25349835?v=3&s=200)]()
 
 [![Gitter chat](https://badges.gitter.im/fp-ethereum/fp-ethereum.png)](https://gitter.im/fp-ethereum/Lobby)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fpethereum.svg?style=social&label=Follow)](https://twitter.com/fpethereum)
 
 A community of functional programming enthusiasts who are interested in bringing functional programming to the Ethereum platform.
 
