@@ -3,34 +3,24 @@
 [![Gitter chat](https://badges.gitter.im/fp-ethereum/fp-ethereum.png)](https://gitter.im/fp-ethereum/Lobby)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fpethereum.svg?style=social&label=Follow)](https://twitter.com/fpethereum)
 
-A community of functional programming enthusiasts who are interested in bringing functional programming to the Ethereum platform.
+A community of language design enthusiasts interested in bringing functional and other paradigms to the Ethereum platform.
 
 **Topics of interest:**
 
-- Creating a Haskell-like language for the EVM
-- Creating a Lisp-like language for the EVM
-- Using dependent types to provide formal verification of smart contracts.
+- Linear Logic
+- Haskell-inspired language for the EVM
+- Lisp-inspired language for the EVM
+- Dependent Types and Formal Verification
 
 Please join us on the [fp-ethereum](https://gitter.im/fp-ethereum/Lobby) gitter channel for all things FP+ETH: [![Gitter chat](https://badges.gitter.im/fp-ethereum/fp-ethereum.png)](https://gitter.im/fp-ethereum/Lobby)
 
 ## Resources
 
-### Lisp
+### EVM Platform
 
-- The #LLL channel on the [status.im](http://slack.status.im/) slack.
+- [EVM Assembly](https://solidity.readthedocs.io/en/develop/assembly.html)
 
-### Haskell
-
-- https://github.com/jamshidh/ethereum-client-haskell
-- https://github.com/jamshidh/ethereumH
-- https://github.com/bkirwi/ethereum-haskell
-- https://github.com/blockapps
-- https://hackage.haskell.org/package/web3
-- [Haskell might be relevant to recent happenings in the ethereum world](https://www.youtube.com/watch?v=C8VI8QYoBSU) (July, 2016)
-- [Why Haskellers should be interested in ‘Smart Contracts’](http://www.stephendiehl.com/posts/smart_contracts.html)
-- [Barely Functional #1: Writing a Real Program in Haskell](http://ben.kirw.in/2014/06/24/barely-functional-1-rlp/)
-
-### Formal Verification and Dependent Types
+### Dependent Types and Formal Verification
 
 - [Typed, functional Solidity alternative](https://github.com/raineorshine/functional-solidity-language)
 - [Sample Idris Ethereum smart contracts](https://github.com/vindaloo-thesis/examples)
@@ -44,12 +34,20 @@ of smart contracts.* (2016)
 - [Total Functioal Programming](https://oktahedron.diskordia.org/?podcast=oh002-total-functional-programming) (audio)
 - [A Lem formalization of EVM and some Isabelle/HOL proofs](https://github.com/pirapira/eth-isabelle) ([gitter](https://gitter.im/ethereum/formal-methods))
 
-### EVM
+### Haskell
 
-- [Solidity Assembly](https://solidity.readthedocs.io/en/develop/assembly.html#standalone-assembly)
+- https://github.com/jamshidh/ethereum-client-haskell
+- https://github.com/jamshidh/ethereumH
+- https://github.com/bkirwi/ethereum-haskell
+- https://github.com/blockapps
+- https://hackage.haskell.org/package/web3
+- [Haskell might be relevant to recent happenings in the ethereum world](https://www.youtube.com/watch?v=C8VI8QYoBSU) (July, 2016)
+- [Why Haskellers should be interested in ‘Smart Contracts’](http://www.stephendiehl.com/posts/smart_contracts.html)
+- [Barely Functional #1: Writing a Real Program in Haskell](http://ben.kirw.in/2014/06/24/barely-functional-1-rlp/)
 
-### Early Conversations
+### Miscellaneous
 
+- https://github.com/nexusdev/evm-lang-brainstorm
 - [StackExchange: Is functional programming possible on the EVM?](http://ethereum.stackexchange.com/questions/3443/is-functional-programming-possible-on-the-evm)
 - https://www.reddit.com/r/haskell/comments/2ur1gg/haskell_and_ethereum/
 - https://www.reddit.com/r/ethereum/comments/4opjov/the_bug_which_the_dao_hacker_exploited_was_not/
