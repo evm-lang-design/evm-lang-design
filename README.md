@@ -7,6 +7,7 @@ A community of language design enthusiasts interested in bringing functional and
 
 **Topics of interest:**
 
+- Entity Component Systems
 - Linear Logic
 - Haskell-inspired language for the EVM
 - Lisp-inspired language for the EVM
@@ -47,6 +48,7 @@ of smart contracts.* (2016)
 
 ### Miscellaneous
 
+- [Bahr et al. Certified Symbolic Management of Financial Multi-party Contracts](http://hiperfit.dk/pdf/icfp15-contracts-final.pdf) (paper)
 - https://github.com/nexusdev/evm-lang-brainstorm
 - [StackExchange: Is functional programming possible on the EVM?](http://ethereum.stackexchange.com/questions/3443/is-functional-programming-possible-on-the-evm)
 - https://www.reddit.com/r/haskell/comments/2ur1gg/haskell_and_ethereum/
