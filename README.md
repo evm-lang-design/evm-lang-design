@@ -64,6 +64,7 @@ Several members of the community have volunteered to answer questions or help yo
 
 - [raineorshine](https://github.com/raineorshine)
 - [gnidan](https://github.com/gnidan)
+- [zigguratt](https://github.com/zigguratt)
 - _________
 - _________
 - _________
