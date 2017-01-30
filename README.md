@@ -47,6 +47,14 @@ of smart contracts.* (2016)
 - [Why Haskellers should be interested in ‘Smart Contracts’](http://www.stephendiehl.com/posts/smart_contracts.html)
 - [Barely Functional #1: Writing a Real Program in Haskell](http://ben.kirw.in/2014/06/24/barely-functional-1-rlp/)
 
+### Entity Component Systems
+
+- https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system
+- http://entity-systems.wikidot.com/
+- http://www.chris-granger.com/2012/12/11/anatomy-of-a-knockout/
+- https://github.com/junkdog/artemis-odb/wiki/Introduction-to-Entity-Systems
+- https://www.youtube.com/watch?v=V1Eu9vZaDYw
+
 ### Miscellaneous
 
 - [Bahr et al. Certified Symbolic Management of Financial Multi-party Contracts](http://hiperfit.dk/pdf/icfp15-contracts-final.pdf) (paper)
