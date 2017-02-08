@@ -17,13 +17,17 @@ Please join us on the [fp-ethereum](https://gitter.im/fp-ethereum/Lobby) gitter 
 
 ## Resources
 
+### New EVM Language Experiments
+- [ethereum/viper](https://github.com/ethereum/viper)
+- [pirapira/bamboo](https://github.com/pirapira/bamboo)
+- [raineorshine/functional-solidity-language](https://github.com/raineorshine/functional-solidity-language)
+
 ### EVM Platform
 
 - [EVM Assembly](https://solidity.readthedocs.io/en/develop/assembly.html)
 
 ### Dependent Types and Formal Verification
 
-- [Typed, functional Solidity alternative](https://github.com/raineorshine/functional-solidity-language)
 - [Formal Verification of Ethereum Contracts (Yoichi's attempts)](https://github.com/pirapira/ethereum-formal-verification-overview)
 - [Sample Idris Ethereum smart contracts](https://github.com/vindaloo-thesis/examples)
 - [Idris to Serpent back end](https://github.com/vindaloo-thesis/idris-se)
