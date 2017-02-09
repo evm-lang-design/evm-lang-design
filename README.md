@@ -15,6 +15,8 @@ A community of language design enthusiasts interested in bringing functional and
 
 Please join us on the [fp-ethereum](https://gitter.im/fp-ethereum/Lobby) gitter channel for all things FP+ETH: [![Gitter chat](https://badges.gitter.im/fp-ethereum/fp-ethereum.png)](https://gitter.im/fp-ethereum/Lobby)
 
+Please read the [Contributing License Agreement](https://github.com/fp-ethereum/fp-ethereum/blob/master/CONTRIBUTING.md). Communication on Gitter and other public channels are also subject to this agreement.
+
 ## Resources
 
 ### New EVM Language Experiments
