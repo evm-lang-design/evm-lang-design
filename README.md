@@ -1,6 +1,6 @@
 [![fp-ethereum](https://avatars3.githubusercontent.com/u/25349835?v=3&s=200)]()
 
-[![Gitter chat](https://badges.gitter.im/fp-ethereum/fp-ethereum.png)](https://gitter.im/fp-ethereum/Lobby)
+[![Gitter chat](https://badges.gitter.im/evm-lang-design/evm-lang-design.png)](https://gitter.im/evm-lang-design/Lobby)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fpethereum.svg?style=social&label=Follow)](https://twitter.com/fpethereum)
 
 A community of language design enthusiasts interested in bringing functional and other paradigms to the Ethereum platform.
@@ -13,7 +13,7 @@ A community of language design enthusiasts interested in bringing functional and
 - Lisp-inspired language for the EVM
 - Dependent Types and Formal Verification
 
-Please join us on the [fp-ethereum](https://gitter.im/fp-ethereum/Lobby) gitter channel for all things FP+ETH: [![Gitter chat](https://badges.gitter.im/fp-ethereum/fp-ethereum.png)](https://gitter.im/fp-ethereum/Lobby)
+Please join us on the [fp-ethereum](https://gitter.im/fp-ethereum/Lobby) gitter channel for all things FP+ETH: [![Gitter chat](https://badges.gitter.im/evm-lang-design/evm-lang-design.png)](https://gitter.im/evm-lang-design/Lobby)
 
 Please read the [Contributing License Agreement](https://github.com/fp-ethereum/fp-ethereum/blob/master/CONTRIBUTING.md). Communication on Gitter and other public channels are also subject to this agreement.
 
