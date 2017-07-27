@@ -5,8 +5,9 @@
 
 A community of language design enthusiasts interested in bringing new languages to the Ethereum platform.
 
-**Current status**
-Apart from general discussions, some people in this community are currently in the process of conducting an experiment in which different approaches will be evaluated with respect to a set of metrics. New participants and opinions are *extremely* welcome! We are currently in the process of defining the [framework of the experiment](https://docs.google.com/document/d/17RpYYLBPUtlrFlUARKSD_wU6iR1eFczXRWpfiOGYpBM/edit), help and feedback is encouraged.
+**Current status:**
+
+Apart from general discussions, some people in this community are in the process of conducting an experiment in which different approaches will be evaluated with respect to a set of metrics. New participants and opinions are *extremely* welcome! We are currently in the process of defining the [framework of the experiment](https://docs.google.com/document/d/17RpYYLBPUtlrFlUARKSD_wU6iR1eFczXRWpfiOGYpBM/edit), help and feedback is encouraged.
 
 **Topics of interest:**
 
