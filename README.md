@@ -3,17 +3,20 @@
 [![Gitter chat](https://badges.gitter.im/evm-lang-design/evm-lang-design.png)](https://gitter.im/evm-lang-design/Lobby)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fpethereum.svg?style=social&label=Follow)](https://twitter.com/fpethereum)
 
-A community of language design enthusiasts interested in bringing functional and other paradigms to the Ethereum platform.
+A community of language design enthusiasts interested in bringing new languages to the Ethereum platform.
+
+Apart from general discussions, some people in this community are currently in the process of conducting an experiment in which different approaches will be evaluated with respect to a set of metrics. New participants and opinions are *extremely* welcome! We are currently in the process of defining the [framework of the experiment](https://docs.google.com/document/d/17RpYYLBPUtlrFlUARKSD_wU6iR1eFczXRWpfiOGYpBM/edit), help and feedback is encouraged.
 
 **Topics of interest:**
 
 - Entity Component Systems
-- Linear Logic
+- Linear Logic and types
 - Haskell-inspired language for the EVM
 - Lisp-inspired language for the EVM
 - Dependent Types and Formal Verification
+- Asynchrony
 
-Please join us on the [fp-ethereum](https://gitter.im/fp-ethereum/Lobby) gitter channel for all things FP+ETH: [![Gitter chat](https://badges.gitter.im/evm-lang-design/evm-lang-design.png)](https://gitter.im/evm-lang-design/Lobby)
+Please join us on the [evm-lang-design gitter channel](https://gitter.im/evm-lang-design/Lobby) for all things PLT+ETH: [![Gitter chat](https://badges.gitter.im/evm-lang-design/evm-lang-design.png)](https://gitter.im/evm-lang-design/Lobby)
 
 Please read the [Contributing License Agreement](https://github.com/fp-ethereum/fp-ethereum/blob/master/CONTRIBUTING.md). Communication on Gitter and other public channels are also subject to this agreement.
 
@@ -34,7 +37,7 @@ Please read the [Contributing License Agreement](https://github.com/fp-ethereum/
 - [Sample Idris Ethereum smart contracts](https://github.com/vindaloo-thesis/examples)
 - [Idris to Serpent back end](https://github.com/vindaloo-thesis/idris-se)
 - Bhargavan et al. [Formal Verification of Smart Contracts](http://www.cs.umd.edu/~aseem/solidetherplas.pdf).
-- Pettersson, Jack and Robert Edström. [Safer smart contracts through type-driven
+- Jack Pettersson and Robert Edström. [Safer smart contracts through type-driven
 development.](http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf) *Using dependent and polymorphic types for safer development
 of smart contracts.* (2016)
 - [DevCon1: Towards safer languages for smart contracts](https://www.youtube.com/watch?v=H2uwUdzVD9I) (video) - Jack Pettersson, Robert Edström, DevCon1, (2015)
